@@ -1,0 +1,4 @@
+basedir = 'C:\\Users\\Dell\\Localization\\task2_2'   # Specify your dataset path
+date = '2011_09_26'
+drive = '0001'
+minFeatures = 1000

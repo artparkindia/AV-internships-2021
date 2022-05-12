@@ -1,0 +1,11 @@
+
+# KITTI 
+basedir = './KITTI-Dataset-master/KITTI/'
+date = '2011_09_26'
+drive = '0018'
+
+
+# ICP
+LIDAR_PTS = 5000
+DIMS = 2
+tolerance = 0.000001  #0.000001

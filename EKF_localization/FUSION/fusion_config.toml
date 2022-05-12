@@ -1,0 +1,30 @@
+# KITTI 
+
+basedir = './KITTI-Dataset-master/KITTI/'   # Specify your dataset path
+date = '2011_09_26'
+drive = '0001'
+
+#Process noise parameters
+sigma_ax2 = 9
+sigma_ay2 = 9
+
+#Measurement noise parameters: Lidar
+sigma_x2_lid = 0.0225
+sigma_y2_lid = 0.0225
+sigma_z2_lid= 0.0225
+sigma_theta_lid= 0.0225
+
+
+#Measurement noise parameters: GPS
+sigma_x2_gps = 0.01
+sigma_y2_gps = 0.01
+sigma_z2_gps = 0.01
+
+#Measurement noise params : IMU
+sigma_omega_imu = 0.01
+sigma_vel_imu = 0.01
+sigma_accel_imu = 0.01
+
+var_imu_f = 10
+var_imu_w = 25
+

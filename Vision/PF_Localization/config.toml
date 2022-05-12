@@ -1,0 +1,7 @@
+path = 'C:\Users\Dell\Downloads\sic_data\IISC\wheel_control.csv'   # Specify your dataset path
+minFeatures = 5000
+camera_path = 'C:\Users\Dell\Downloads\sic_data\IISC\cam.mp4'
+encoder_path = 'C:\Users\Dell\Downloads\sic_data\IISC\wheel_control.csv'
+calib = [[387.70582419, 0.0, 321.20321319],[0.0, 386.2615983, 233.97826356],[0.0, 0.0, 1.0]]
+NP = 100
+MAX_RANGE = 20.0

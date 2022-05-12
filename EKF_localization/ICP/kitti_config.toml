@@ -1,0 +1,11 @@
+
+# KITTI 
+basedir = './KITTI-Dataset-master/KITTI/'  # Change this to your specific dataset path
+date = '2011_09_26'  
+drive = '0001'
+
+
+# ICP
+LIDAR_PTS = 5000      #max 110,000
+DIMS = 2              #X,Y
+tolerance = 0.000001  #0.000001

@@ -1,0 +1,44 @@
+{
+    "arena":{
+        "map": "general_simulation/maps/arena.png",
+        "erosions": 10,
+        "start": [200, 200],
+        "end": [1000, 1000]
+    },
+    "arena2":{
+        "map": "general_simulation/maps/arena2.png",
+        "erosions": 5,
+        "start": [675, 534],
+        "end": [257, 539]
+    },
+    "brc000d":{
+        "map": "general_simulation/maps/brc000d.png",
+        "erosions": 5,
+        "start": [133, 82],
+        "end": [337, 648]
+    },
+    "brc101d":{
+        "map": "general_simulation/maps/brc101d.png",
+        "erosions": 1,
+        "start": [469, 982],
+        "end": [521, 239]
+    },
+    "lak308d":{
+        "map": "general_simulation/maps/lak308d.png",
+        "erosions": 2,
+        "start": [562, 157],
+        "end": [876, 1017]
+    },
+    "oth000d":{
+        "map": "general_simulation/maps/oth000d.png",
+        "erosions": 1,
+        "start": [141, 642],
+        "end": [690, 904]
+    },
+    "orz999d":{
+        "map": "general_simulation/maps/orz999d.png",
+        "erosions": 3,
+        "start": [760, 59],
+        "end": [960, 1000]
+    }
+}

@@ -1,0 +1,3 @@
+basedir = 'C:\\Users\\Dell\\Desktop\\kitti_visualizer'   # Specify your dataset path
+date = '2011_09_26'
+drive = '0001'

@@ -1,2 +1,3 @@
-# AV-internships-2021
-All internship code/ reports related to autonomous vehicle modules like SLAM, motion planning, tracking
+# artpark-internship-2021
+All code related to summer internship projects 2021
+Feel free to create test folders to monitor ongoing work
